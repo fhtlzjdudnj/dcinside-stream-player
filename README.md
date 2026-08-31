@@ -23,6 +23,18 @@
 
 ## 사용법
 
+디시인사이드 인방 플레이어의 설치 방법을 설명합니다.
+
+아래 링크에서 유저스크립트 관리 확장기능인 **Tampermonkey**를 설치하세요.
+
+- Chrome - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- Firefox - [Tampermonkey](https://addons.mozilla.org/ko/firefox/addon/tampermonkey/)
+- Edge - [Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+
+Tampermonkey 설치 후 아래 링크를 클릭하세요. 이후 뜨는 창에서 **"설치"** 버튼을 눌러 스크립트를 설치합니다.
+
+- Install from [dc-stream-player.user.js](https://github.com/fhtlzjdudnj/dcinside-stream-player/raw/refs/heads/main/dc-stream-player.user.js)
+
 설치 후 별도 설정 없이 디시인사이드 게시글을 열면 자동으로 작동합니다.
 링크 텍스트는 화면에서 숨겨지고 그 자리에 플레이어 카드가 나타납니다.
 
