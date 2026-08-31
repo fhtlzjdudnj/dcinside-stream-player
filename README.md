@@ -44,7 +44,7 @@
 
 Tampermonkey 설치 후 아래 링크를 클릭하세요. 이후 뜨는 창에서 **"설치"** 버튼을 눌러 스크립트를 설치합니다.
 
-- 설치링크 [[dc-stream-player.user.js](https://github.com/fhtlzjdudnj/dcinside-stream-player/raw/refs/heads/main/dc-stream-player.user.js)](https://github.com/fhtlzjdudnj/dcinside-stream-player/raw/refs/heads/main/dc-stream-player.user.js)
+- 설치링크 [dc-stream-player.user.js](https://github.com/fhtlzjdudnj/dcinside-stream-player/raw/refs/heads/main/dc-stream-player.user.js)
 
 설치 후 별도 설정 없이 디시인사이드 게시글을 열면 자동으로 작동합니다.
 링크 텍스트는 화면에서 숨겨지고 그 자리에 플레이어 카드가 나타납니다.
