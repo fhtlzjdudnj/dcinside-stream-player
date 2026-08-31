@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         디시인사이드 인방 플레이어
 // @namespace    dc-stream-player
-// @version      0.0.1
+// @version      0.0.2
 // @description  디시인사이드 게시글의 SOOP 및 치지직 영상 링크를 공식 임베드 플레이어로 표시합니다.
+// @match        https://m.dcinside.com/*
 // @match        https://gall.dcinside.com/*
 // @match        https://gall.dcinside.com/board/view*
 // @icon         https://gall.dcinside.com/favicon.ico
