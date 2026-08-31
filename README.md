@@ -3,9 +3,20 @@
 디시인사이드 갤러리 게시글에 SOOP(숲) 클립/CATCH, 치지직 클립 링크가 올라오면
 클릭해서 새 창으로 이동할 필요 없이, **본문 안에서 바로 재생**되도록 자동으로 플레이어 카드를 만들어줍니다.
 
-
-<img src="https://i.imgur.com/l62k2wF.png" alt="SOOP 캐치 예시" width="380"> <img src="https://i.imgur.com/EiB7S5P.png" alt="치지직 클립 예시" width="380">
-
+<table>
+  <tr>
+    <td align="center">
+      <img width="100%" src="https://github.com/user-attachments/assets/aeda088d-39af-44c6-a242-5ee5aae3c726" />
+      <br>
+      <b>SOOP 예시</b>
+    </td>
+    <td align="center">
+      <img width="100%" src="https://github.com/user-attachments/assets/8909dbe8-1f2e-4f58-8f3d-3f6a88bae472" />
+      <br>
+      <b>치지직 예시</b>
+    </td>
+  </tr>
+</table>
 
 ## 주요 기능
 
