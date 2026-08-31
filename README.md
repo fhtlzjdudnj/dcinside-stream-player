@@ -5,19 +5,28 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img width="100%" src="https://github.com/user-attachments/assets/aeda088d-39af-44c6-a242-5ee5aae3c726" />
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/aeda088d-39af-44c6-a242-5ee5aae3c726" />
       <br>
       <b>SOOP 예시</b>
     </td>
-    <td align="center">
-      <img width="100%" src="https://github.com/user-attachments/assets/8909dbe8-1f2e-4f58-8f3d-3f6a88bae472" />
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/8909dbe8-1f2e-4f58-8f3d-3f6a88bae472" />
       <br>
       <b>치지직 예시</b>
     </td>
   </tr>
-</table>
 
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img width="180" alt="모바일 예시" src="https://github.com/user-attachments/assets/18476b80-145a-4d54-ab7a-ed7f9788a09c" />
+      <br>
+      <b>모바일 예시</b>
+      <br>
+    </td>
+  </tr>
+</table>
 ## 주요 기능
 
 - SOOP VOD / CATCH 링크 자동 감지 → 임베드 플레이어 삽입
